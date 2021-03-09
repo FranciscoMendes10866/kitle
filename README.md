@@ -1,4 +1,4 @@
-# Kitle 📦
+# Kitle 🌽
 
 Bootstraps a template project with some popular packages and some pre-configured script commands. 
 
